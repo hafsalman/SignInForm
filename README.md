@@ -32,7 +32,7 @@ This application demonstrates user input handling, form validation, and basic au
 git clone https://github.com/hafsalman/SignInForm
 ```
 
-### 2️⃣ Install Dependencies 
+### 2️⃣ Initialize Expo Project 
 
 ``` bash
 npx create-expo-app SignIn --template expo-template-blank
